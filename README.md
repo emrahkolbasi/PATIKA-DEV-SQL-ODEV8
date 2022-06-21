@@ -130,5 +130,5 @@ DELETE FROM employee
 WHERE id=14;
 
 DELETE FROM employee
-WHERE name ='Şengül';
+WHERE name ='Şengül Yaşar';
 
